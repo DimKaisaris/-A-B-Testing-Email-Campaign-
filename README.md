@@ -50,10 +50,10 @@ Cheers,
 ‘Rage Against The Machine’  
 
 
-Key A/B Testing Differences:
-•	Email A: Focuses on expert insights and informed predictions for smart betting.
-•	Email B: Highlights AI-powered accuracy and the financial benefits of subscribing.
-•	Subject Lines: One is about winning more bets, while the other hints at an exclusive edge.  
+Key A/B Testing Differences:  
+•	Email A: Focuses on expert insights and informed predictions for smart betting.  
+•	Email B: Highlights AI-powered accuracy and the financial benefits of subscribing.  
+•	Subject Lines: One is about winning more bets, while the other hints at an exclusive edge.    
 Both emails were sent to different random groups of recipients.
 
 
