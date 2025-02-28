@@ -5,7 +5,7 @@ The goal of this project is to analyze the effectiveness of two different email 
 
 ## Dataset & Storage
 The dataset is stored in an SQLite database (Email_campaign.db) in a table named email_ab_test_data. It contains the following key metrics:
-Sent: Number of emails sent 
+Sent: Number of emails sent   
 Bounced: Number of undelivered emails  
 Opened: Number of recipients who opened the email  
 Sales: Number of users who subscribed after opening the email  
