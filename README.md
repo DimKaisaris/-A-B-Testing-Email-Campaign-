@@ -13,10 +13,6 @@ Sales: Number of users who subscribed after opening the email
 A/B Test Setup
 We designed two email variations (A & B) targeting sports fans and bettors:
 
-Email A: Focuses on expert insights, match predictions, and betting strategies.  
-Email B: Highlights AI-powered accuracy and financial benefits of smart betting.  
-Both emails were sent to different random groups of recipients.
-
 Email A – “Win More Bets with Expert Football Predictions!”  
 Subject: Get Ahead of the Game!   
 Hey [Mr Procter],  
@@ -34,4 +30,30 @@ Let’s make every match a winning one!
 Cheers,  
 Adam Smith    
 ‘Rage Against The Machine’  
+
+
+
+Email B – “Your Winning Streak Starts Here! ”  
+Subject: The Smartest Bettors Use This…   
+Hey [Stu Ungar],  
+What if you never placed a bad bet again? Our football forecasting service helps you make data-driven bets that actually pay off!  
+Why Join?  
+ AI-powered predictions for every game  
+ Higher accuracy, bigger profits  
+ Insider tips from betting experts  
+No more guesswork. Only smart bets.  
+💥 Sign up now & get your first week FREE! 💥  
+[Start Winning Now]  
+See you on the winning side!   
+Cheers,  
+[Adam Smith]  
+‘Rage Against The Machine’  
+
+
+Key A/B Testing Differences:
+•	Email A: Focuses on expert insights and informed predictions for smart betting.
+•	Email B: Highlights AI-powered accuracy and the financial benefits of subscribing.
+•	Subject Lines: One is about winning more bets, while the other hints at an exclusive edge.  
+Both emails were sent to different random groups of recipients.
+
 
