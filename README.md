@@ -56,10 +56,27 @@ Key A/B Testing Differences:
 •	Subject Lines: One is about winning more bets, while the other hints at an exclusive edge.    
 Both emails were sent to different random groups of recipients.
 
-I used Python and Jupyter Notebook to analyze the results of an A/B test. You can find the code and details in the attached **[pdf](https://github.com/DimKaisaris/-A-B-Testing-Email-Campaign-/blob/main/A%2CB%20final%20-%20Jupyter%20Notebook.pdf)**
+I used Python and Jupyter Notebook to analyze the results of an A/B test. You can find the code and details in the attached **[pdf](https://github.com/DimKaisaris/-A-B-Testing-Email-Campaign-/blob/main/A%2CB%20final%20-%20Jupyter%20Notebook.pdf)** 
+
+Here are the results: 
 
 
-![s1](Images/s1.png)
+![s1](Images/s1.png) 
+
+![s2](Images/s2.png)   
+
+![s3](Images/s3.png)   
+
+Final Analysis: 
+We found out that the differences we implemented in Email type A lead to a statistically significant increase in the email open rate. More recipients in Group A opened the emails compared to Group B.  
+
+Sales Performance:  
+Despite the higher open rate in Group A, there was no statistically significant difference in overall sales per sent email between the two groups.  
+Also there was no statistical difference in the amount of sales that were performed by the users that opened the email.
+
+Interpretation:  
+The changes implemented in Group A effectively increased the visibility of the email, leading to more opens. 
+However, this increase in opens did not translate into a proportional increase in sales.  
 
 
 
