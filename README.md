@@ -42,7 +42,7 @@ Why Join?
  Higher accuracy, bigger profits  
  Insider tips from betting experts  
 No more guesswork. Only smart bets.  
-💥 Sign up now & get your first week FREE! 💥  
+Sign up now & get your first week FREE!  
 [Start Winning Now]  
 See you on the winning side!   
 Cheers,  
@@ -56,7 +56,7 @@ Key A/B Testing Differences:
 •	Subject Lines: One is about winning more bets, while the other hints at an exclusive edge.    
 Both emails were sent to different random groups of recipients.
 
-
+**[pdf](https://github.com/DimKaisaris/-A-B-Testing-Email-Campaign-/blob/main/A%2CB%20final%20-%20Jupyter%20Notebook.pdf)**
 ![s1](Images/s1.png)
 
 
