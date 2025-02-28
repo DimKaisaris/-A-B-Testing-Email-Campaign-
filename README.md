@@ -56,7 +56,7 @@ Key A/B Testing Differences:
 •	Subject Lines: One is about winning more bets, while the other hints at an exclusive edge.    
 Both emails were sent to different random groups of recipients.
 
-I used python and Jupyter Nothebook to perform the A/B testing. You can check my code on this **[pdf](https://github.com/DimKaisaris/-A-B-Testing-Email-Campaign-/blob/main/A%2CB%20final%20-%20Jupyter%20Notebook.pdf)**
+I used Python and Jupyter Notebook to analyze the results of an A/B test. You can find the code and details in the attached **[pdf](https://github.com/DimKaisaris/-A-B-Testing-Email-Campaign-/blob/main/A%2CB%20final%20-%20Jupyter%20Notebook.pdf)**
 
 
 ![s1](Images/s1.png)
