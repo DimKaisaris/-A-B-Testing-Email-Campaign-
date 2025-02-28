@@ -15,7 +15,7 @@ We designed two email variations (A & B) targeting sports fans and bettors:
 
 Email A – “Win More Bets with Expert Football Predictions!”  
 Subject: Get Ahead of the Game!   
-Hey [Mr Procter],  
+Hey Mr Procter,  
 Want to win more bets and stay ahead of the competition? Our football forecasting subscription gives you expert insights, real-time predictions, and the edge you need to cash in on every match!  
 What You Get:  
 •	Accurate match predictions  
@@ -35,7 +35,7 @@ Adam Smith
 
 Email B – “Your Winning Streak Starts Here! ”  
 Subject: The Smartest Bettors Use This…   
-Hey [Stu Ungar],  
+Hey Stu Ungar,  
 What if you never placed a bad bet again? Our football forecasting service helps you make data-driven bets that actually pay off!  
 Why Join?  
  AI-powered predictions for every game  
