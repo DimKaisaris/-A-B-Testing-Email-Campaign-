@@ -57,7 +57,7 @@ Key A/B Testing Differences:
 Both emails were sent to different random groups of recipients.
 
 
-![c1](Images/Screenshot_1.png)
+![c1](Images/Screenshot 1.png)
 
 
 
